@@ -1,0 +1,1 @@
+PATH = E:\C\comet\comet_space\cometspace\bin\
